@@ -1,0 +1,6 @@
+.lead {
+  display: grid;
+  grid-template-rows: repeat(4, auto);
+  justify-items: start;
+  background-color: yellow;
+}

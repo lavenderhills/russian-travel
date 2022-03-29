@@ -1,0 +1,24 @@
+.intro__text {
+  margin: 40px 0 0;
+  width: 59%;
+  font-size: 16px;
+  line-height: 1.6;
+}
+
+@media screen and (max-width: 1024px) {
+  .intro__text {
+    width: 67%;
+  }
+}
+
+@media screen and (max-width: 768px) {
+    .intro__text {
+    width: 94%;
+  }
+}
+
+@media screen and (max-width: 320px) {
+    .intro__text {
+    width: 90%;
+  }
+}
