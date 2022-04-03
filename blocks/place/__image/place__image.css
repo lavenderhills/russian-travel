@@ -1,26 +1,17 @@
 .place__image {
-  width: 460px;
+  width: 100%;
   margin: 0;
   align-self: end;
 }
 
-@media screen and (max-width: 1024px) {
-  .place__image {
-    width: 440px;
-  }
-}
-
-@media screen and (max-width: 768px) {
+@media screen and (max-width: 1245px) {
    .place__image {
-    width: 340px;
     align-self: start;
   }
 }
 
-@media screen and (max-width: 320px) {
+@media screen and (max-width: 450px) {
    .place__image {
-    width: 320px;
-    margin-top: -15px;
     align-self: center;
   }
 }

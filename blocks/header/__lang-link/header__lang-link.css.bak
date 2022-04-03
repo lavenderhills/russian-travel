@@ -1,19 +1,19 @@
 .header__lang-link {
-  align-self: end;
-  justify-self: start;
+  margin-right: 18px;
   line-height: 1.15;
   font-size: 24px;
   color: white;
   text-decoration: none;
+  border: solid red;
+}
+
+.header__lang-link:last-child {
+  margin-right: 0;
 }
 
 @media screen and (max-width: 425px) {
   .header__lang-link {
-    align-self: end;
-    justify-self: start;
     line-height: 1.1;
     font-size: 18px;
-    color: white;
-    text-decoration: none;
   }
 }

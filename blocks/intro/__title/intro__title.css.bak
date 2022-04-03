@@ -2,7 +2,7 @@
   margin: 92px 0 0;
   font-size: 54px;
   line-height: 1;
-  font-weight: bold;
+  font-weight: 900;
   width: 59%;
 }
 
@@ -13,11 +13,17 @@
   }
 }
 
-@media screen and (max-width: 320px) {
+@media screen and (max-width: 572px) {
+  .intro__title {
+    width: 94%;
+    margin: 64px 0 0;
+  }
+}
+
+@media screen and (max-width: 450px) {
   .intro__title {
     width: 90%;
     margin: 64px 0 0;
     font-size: 32px;
-    line-height: 1;
   }
 }

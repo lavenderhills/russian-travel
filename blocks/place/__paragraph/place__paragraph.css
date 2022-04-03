@@ -18,11 +18,11 @@
   }
 }
 
-@media screen and (max-width: 320px) {
-    .place__paragraph {
+@media screen and (max-width: 450px) {
+  .place__paragraph {
     font-size: 16px;
-    width: 100%;
-    margin-top: -15px;
+    width: 90%;
+    margin: 0 auto;
   }
   .place__paragraph:nth-child(2) {
     margin-top: 25px;

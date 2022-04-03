@@ -1,9 +1,0 @@
-.header__logo {
-  justify-self: start;
-}
-
-@media screen and (max-width: 320px) {
-  .header__logo {
-    width: 80%;
-  }
-}

@@ -1,16 +1,38 @@
 .cover__subtitle {
+  display: block;
   font-size: 18px;
   line-height: 1.2;
-  width: 360px;
+  width: 30.4%;
   margin: 32px auto 0;
   padding-bottom: 21%;
 }
 
-@media screen and (max-width: 320px) {
+@media screen and (max-width: 1024px) {
+  .cover__subtitle {
+    width: 35.16%;
+  }
+}
+
+@media screen and (max-width: 768px) {
+  .cover__subtitle {
+    width: 46.875%;
+  }
+}
+
+@media screen and (max-width: 572px) {
+  .cover__subtitle {
+    font-size: 16px;
+    line-height: 1.1;
+    width: 90%;
+    margin: 16px auto 0;
+  }
+}
+
+@media screen and (max-width: 450px) {
   .cover__subtitle {
     font-size: 14px;
     line-height: 1.1;
-    width: 288px;
+    width: 90%;
     margin: 16px auto 0;
     padding-bottom: 15%;
   }

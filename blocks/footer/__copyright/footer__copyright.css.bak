@@ -4,11 +4,11 @@
   line-height: 1.1;
   text-align: right;
   align-self: start;
-    border: solid red;
 }
 
-@media screen and (max-width: 320px) {
+@media screen and (max-width: 572px) {
   .footer__copyright {
+    margin-top: 48px;
     text-align: left;
     line-height: 1;
     width: 100%;

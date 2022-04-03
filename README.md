@@ -20,4 +20,6 @@
 
 Возможная доработка: через медиазапросы добавить еще несколько диапазонов, сделать масштабирование более плавным.
 
+[Посмотреть проект на GitHub Pages](https://lavenderhills.github.io/russian-travel/)
+
 [Ссылка на курс](https://practicum.yandex.ru/web/)
