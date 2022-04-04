@@ -1,6 +1,5 @@
 .footer__navigation {
   display: flex;
-  wrap: no-wrap;
 }
 
 @media screen and (max-width: 767px) {

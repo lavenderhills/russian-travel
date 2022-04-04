@@ -121,7 +121,7 @@
         <section class="places">
           <!--1 Куршская коса-->
           <div class="place">
-            <h2 class="place__title">Куршская коса</h2>
+            <h2 class="place__title">Куршская <br>коса</h2>
             <div class="place__website">
               <p class="place__url-heading">url</p>
               <a target="_blank" href="http://park-kosa.ru" class="place__link">park-kosa.ru</a>
