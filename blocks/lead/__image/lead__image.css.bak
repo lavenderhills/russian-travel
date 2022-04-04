@@ -5,21 +5,18 @@
 
 @media screen and (max-width: 1024px) {
   .lead__image {
-    width: 91%;
     margin: 56px auto 0;
   }
 }
 
-@media screen and (max-width: 768px) {
+@media screen and (max-width: 810px) {
   .lead__image {
-    width: 100%;
     margin: 56px 0 0;
   }
 }
 
 @media screen and (max-width: 572px) {
   .lead__image {
-    width: 100%;
     margin: 40px 0 0;
   }
 }

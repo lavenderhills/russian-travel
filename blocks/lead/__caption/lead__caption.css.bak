@@ -8,14 +8,16 @@
   width: 100%;
 }
 
-@media screen and (max-width: 768px) {
+@media screen and (max-width: 811px) {
   .lead__caption {
     margin: 8px 0 0 24px;
+    width: calc(100% - 24px);
   }
 }
 
-@media screen and (max-width: 450px) {
+@media screen and (max-width: 572px) {
   .lead__caption {
     margin: 8px 0 0 16px;
+    width: calc(100% - 16px);
   }
 }

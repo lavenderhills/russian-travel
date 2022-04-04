@@ -1,18 +1,17 @@
 .lead {
   display: grid;
   grid-template-rows: repeat(4, auto);
-  width: 76.88%;
+  width: calc(100%- 296px);
   margin: 0 auto;
-  border: solid red;
 }
 
 @media screen and (max-width: 1024px) {
   .lead {
-    width: 90.63%;
+    width: calc(100% - 96px);
   }
 }
 
-@media screen and (max-width: 768px) {
+@media screen and (max-width: 811px) {
   .lead {
     width: 100%;
   }

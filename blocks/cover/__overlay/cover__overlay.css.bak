@@ -3,10 +3,9 @@
   width: 100%;
   background-color: rgba(42, 44, 47, 0.3);
   transition: 0.5s linear;
-  position: absolute;
 }
 
-@media screen and (min-width: 1025px) {
+@media screen and (cursor: none) {
   .cover__overlay:hover {
     height: 100%;
     width: 100%;

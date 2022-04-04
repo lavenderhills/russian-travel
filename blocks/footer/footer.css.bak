@@ -11,13 +11,13 @@
   }
 }
 
-@media screen and (max-width: 768px) {
+@media screen and (max-width: 811px) {
   .footer {
     width: 93.75%;
   }
 }
 
-@media screen and (max-width: 572px) {
+@media screen and (max-width: 767px) {
   .footer {
     margin: 64px auto 24px;
     width: 90%;
