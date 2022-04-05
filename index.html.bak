@@ -121,7 +121,7 @@
         <section class="places">
           <!--1 Куршская коса-->
           <div class="place">
-            <h2 class="place__title">Куршская <br>коса</h2>
+            <h2 class="place__title">Куршская коса</h2>
             <div class="place__website">
               <p class="place__url-heading">url</p>
               <a target="_blank" href="http://park-kosa.ru" class="place__link">park-kosa.ru</a>
@@ -243,16 +243,7 @@
             </div>
           </div>
         </section>
-        <!--COVER-->
-        <section class="cover">
-          <a target="_blank" href="https://stampsy.com/na-elektrichkakh-do-baikala" class="cover__link">
-            <div class="cover__overlay">
-              <h2 class="cover__title">До Байкала «на собаках»</h2>
-              <span class="cover__subtitle">По мотивам учебной темы о 
-              Транссибе — путешествие от столицы до Байкала на электричках.</span>
-            </div>
-          </a>
-        </section>
+
       </main>
       <!--FOOTER-->
       <footer class="footer">

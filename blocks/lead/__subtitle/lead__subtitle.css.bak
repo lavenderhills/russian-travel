@@ -3,7 +3,7 @@
   font-size: 30px;
   line-height: 1.2;
   text-align: center;
-  width: 590px;
+  width: 550px;
 }
 
 @media screen and (max-width: 572px) {

@@ -1,10 +1,10 @@
 .header {
-  margin: 28px 0 0;
+  margin: 28px 48px 0;
   display: flex;
   justify-content: space-between;
   align-content: baseline;
   flex-basis: auto;
-  width: 92.5%;
+  width: calc(100% - 96px);
 }
 
 @media screen and (max-width: 811px) {
@@ -14,7 +14,7 @@
   }
 }
 
-@media screen and (max-width: 450px) {
+@media screen and (max-width: 699px) {
   .header {
     width: calc(100% - 32px);
     margin: 16px 16px 0;
